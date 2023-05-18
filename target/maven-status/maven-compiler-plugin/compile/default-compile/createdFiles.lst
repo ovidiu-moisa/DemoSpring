@@ -1,0 +1,6 @@
+com/hackerrank/stocktrades/service/StockService.class
+com/hackerrank/stocktrades/model/StockTrade.class
+com/hackerrank/stocktrades/controller/StockTradeRestController.class
+com/hackerrank/stocktrades/model/NoArgsConstructor.class
+com/hackerrank/stocktrades/repository/StockTradeRepository.class
+com/hackerrank/stocktrades/Application.class
